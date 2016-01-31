@@ -1,0 +1,203 @@
+affixmgr.lo: affixmgr.cxx license.hunspell ../../config.h license.myspell \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/stdlib.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/crtdefs.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/_mingw.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/_mingw_mac.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/vadefs.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ c:/Strawberry/c/lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed/limits.h \
+ c:/Strawberry/c/lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed/syslimits.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/limits.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/malloc.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/string.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/stdio.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/_mingw_print_push.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/swprintf.inl \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/_mingw_print_pop.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/ctype.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/vector \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_algobase.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/functexcept.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/exception_defines.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/cpp_type_traits.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/ext/type_traits.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/ext/numeric_traits.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_pair.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/move.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/concept_check.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_iterator_base_types.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_iterator_base_funcs.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/debug/debug.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_iterator.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/ptr_traits.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/predefined_ops.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/allocator.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/ext/new_allocator.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/new \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/exception \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/atomic_lockfree_defines.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/memoryfwd.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_construct.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/ext/alloc_traits.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_uninitialized.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_vector.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_bvector.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/range_access.h \
+ c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/vector.tcc \
+ affixmgr.hxx hunvisapi.h atypes.hxx hashmgr.hxx htypes.hxx filemgr.hxx \
+ hunzip.hxx w_char.hxx baseaffix.hxx phonet.hxx replist.hxx affentry.hxx \
+ langnum.hxx csutil.hxx
+
+license.hunspell:
+
+../../config.h:
+
+license.myspell:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/stdlib.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/crtdefs.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/_mingw.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/_mingw_mac.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/_mingw_secapi.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/vadefs.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/sdks/_mingw_directx.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h:
+
+c:/Strawberry/c/lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed/limits.h:
+
+c:/Strawberry/c/lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed/syslimits.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/limits.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/sec_api/stdlib_s.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/malloc.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/string.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/sec_api/string_s.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/stdio.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/_mingw_print_push.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/_mingw_off_t.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/swprintf.inl:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/_mingw_print_pop.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/ctype.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/vector:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_algobase.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32/bits/c++config.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32/bits/os_defines.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/functexcept.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/exception_defines.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/cpp_type_traits.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/ext/type_traits.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/ext/numeric_traits.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_pair.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/move.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/concept_check.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_iterator_base_types.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_iterator_base_funcs.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/debug/debug.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_iterator.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/ptr_traits.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/predefined_ops.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/allocator.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32/bits/c++allocator.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/ext/new_allocator.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/new:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/exception:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/atomic_lockfree_defines.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/memoryfwd.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_construct.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/ext/alloc_traits.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_uninitialized.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_vector.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/stl_bvector.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/range_access.h:
+
+c:/Strawberry/c/x86_64-w64-mingw32/include/c++/bits/vector.tcc:
+
+affixmgr.hxx:
+
+hunvisapi.h:
+
+atypes.hxx:
+
+hashmgr.hxx:
+
+htypes.hxx:
+
+filemgr.hxx:
+
+hunzip.hxx:
+
+w_char.hxx:
+
+baseaffix.hxx:
+
+phonet.hxx:
+
+replist.hxx:
+
+affentry.hxx:
+
+langnum.hxx:
+
+csutil.hxx:
