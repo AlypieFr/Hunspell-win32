@@ -1,0 +1,1 @@
+# Hunspell-win32
