@@ -27,14 +27,15 @@ To build hunspell, run MSYS by executing C:\MinGW\msys\1.0\msys.bat. In the term
 
 On 64bits:
 
-./configure --prefix=/c/hunspellX64
-cd src/hunspell
-make install
+    ./configure --prefix=/c/hunspellX64
+    cd src/hunspell
+    make install
 
 On 32bits:
-./configure --prefix=/c/hunspellI686
-cd src/hunspell
-make install
+
+    ./configure --prefix=/c/hunspellI686
+    cd src/hunspell
+    make install
 
 
 This will build hunspell and install it in C:\texworks\libs.
